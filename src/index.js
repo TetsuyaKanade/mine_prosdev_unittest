@@ -2,7 +2,7 @@ const functions = {
   gradeClassifier: (grade) => {
     // TODO: Write code here
     
-    if(grade>=95 && grade<=100)
+    if(grade>=95.00 && grade<=100.00)
     {
       return "O";
     }
