@@ -30,6 +30,7 @@ D | Did not Meet Expectation | 74.99 and below
 
 ## Results
 *TODO: Insert screenshot of the results from the command line*
-![Test Screesnshot1](/test_screenshot1.png)
 
-![Test Screesnshot2](/test_screenshot2.png)
+![Test Screesnshot1](/test_screenshot 1.png)
+
+![Test Screesnshot2](/test_screenshot 2.png)
